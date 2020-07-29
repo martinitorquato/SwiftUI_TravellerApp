@@ -2,13 +2,13 @@
 //  TravellerAppApp.swift
 //  TravellerApp
 //
-//  Created by opah on 29/07/20.
+//  Created by Raphael Torquato on 29/07/20.
 //
 
 import SwiftUI
 
 @main
-struct TravellerAppApp: App {
+struct TravellerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

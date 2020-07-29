@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6CFB8D2B24D1C87F004CB0D6 /* TravellerAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CFB8D2A24D1C87F004CB0D6 /* TravellerAppApp.swift */; };
+		6CFB8D2B24D1C87F004CB0D6 /* TravellerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CFB8D2A24D1C87F004CB0D6 /* TravellerApp.swift */; };
 		6CFB8D2D24D1C87F004CB0D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CFB8D2C24D1C87F004CB0D6 /* ContentView.swift */; };
 		6CFB8D2F24D1C882004CB0D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CFB8D2E24D1C882004CB0D6 /* Assets.xcassets */; };
 		6CFB8D3224D1C882004CB0D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CFB8D3124D1C882004CB0D6 /* Preview Assets.xcassets */; };
@@ -34,7 +34,7 @@
 
 /* Begin PBXFileReference section */
 		6CFB8D2724D1C87F004CB0D6 /* TravellerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravellerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CFB8D2A24D1C87F004CB0D6 /* TravellerAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravellerAppApp.swift; sourceTree = "<group>"; };
+		6CFB8D2A24D1C87F004CB0D6 /* TravellerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravellerApp.swift; sourceTree = "<group>"; };
 		6CFB8D2C24D1C87F004CB0D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6CFB8D2E24D1C882004CB0D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CFB8D3124D1C882004CB0D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		6CFB8D2924D1C87F004CB0D6 /* TravellerApp */ = {
 			isa = PBXGroup;
 			children = (
-				6CFB8D2A24D1C87F004CB0D6 /* TravellerAppApp.swift */,
+				6CFB8D2A24D1C87F004CB0D6 /* TravellerApp.swift */,
 				6CFB8D2C24D1C87F004CB0D6 /* ContentView.swift */,
 				6CFB8D2E24D1C882004CB0D6 /* Assets.xcassets */,
 				6CFB8D3324D1C882004CB0D6 /* Info.plist */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6CFB8D2D24D1C87F004CB0D6 /* ContentView.swift in Sources */,
-				6CFB8D2B24D1C87F004CB0D6 /* TravellerAppApp.swift in Sources */,
+				6CFB8D2B24D1C87F004CB0D6 /* TravellerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
